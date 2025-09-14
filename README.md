@@ -4,6 +4,7 @@
 
  Game 1 ->   Brick Gamee =>  [click here](https://github.com/Code-Eagl/-Java-Dev-Portfolio/tree/c33875bc0c573915255b10ff7202171a1ddf28a8/BrickGame)<br>
 Java GUI project -> Hotel Management System =>[click here](https://github.com/Code-Eagl/Hotel-Management-System-Java-.git)
+
 Java GUI project -> University Management System =>[click here](https://github.com/Code-Eagl/university-management-system.git)
 
 **Here is the collection of program folders for various algorithms implemented with the Java Swing components. The output is also uploaded.**<br>
